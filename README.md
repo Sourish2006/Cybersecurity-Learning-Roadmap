@@ -25,10 +25,36 @@
 ```text
 Cybersecurity-Learning-Roadmap/
 │
-├── Cryptography/
-├── Networking/
-├── Password_Security/
-├── File_Integrity_Monitoring/
+├── File_Encryption_Tool/
+│   ├── Encryption_Basics.md
+│   ├── XOR_Encryption.md
+│   └── File_Handling.md
+│
+├── Port_Scanner/
+│   ├── TCP_IP_Model.md
+│   ├── Ports.md
+│   ├── Socket_Programming.md
+│   └── Networking_Basics.md
+│
+├── Password_Strength_Checker/
+│   ├── Password_Security.md
+│   ├── Regex_Basics.md
+│   ├── Input_Validation.md
+│   └── Common_Password_Attacks.md
+│
+├── Network_Scanner/
+│   ├── ICMP.md
+│   ├── ARP.md
+│   ├── Host_Discovery.md
+│   ├── Hostname_Resolution.md
+│   └── Multithreading.md
+│
+├── File_Integrity_Checker/
+│   ├── Hash_Functions.md
+│   ├── MD5.md
+│   ├── SHA256.md
+│   └── File_Integrity_Monitoring.md
+│
 └── README.md
 ```
 
@@ -46,9 +72,11 @@ Learn → Build → Improve 🚀
 
 ---
 
-Still learning. Still building. One concept at a time.
+## 🎯 Goal
 
+Build a strong foundation in cybersecurity by combining theory with hands-on projects and documenting the learning journey.
 
 ---
 
-Still learning. Still building. One concept at a time. 🚀
+Still learning. Still building. One concept at a time.
+
